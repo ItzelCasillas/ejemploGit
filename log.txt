@@ -1,0 +1,29 @@
+commit c2429437fdea9b2024d0bdd17d13e46d425fdff6
+Author: itzelcasillas <1tz3lcg@gmail.com>
+Date:   Tue Jul 4 22:08:17 2017 -0600
+
+    Integracion bootstrap
+
+commit 84f78b5fadb707f1d929b15f5eb72c2f097a4970
+Author: itzelcasillas <1tz3lcg@gmail.com>
+Date:   Tue Jul 4 22:06:34 2017 -0600
+
+    Se agrego footer
+
+commit 6d782d5afdef3107fca42d927e0ff827d6f78360
+Author: itzelcasillas <1tz3lcg@gmail.com>
+Date:   Tue Jul 4 16:11:17 2017 -0600
+
+    Se agrego imagen y descripcion
+
+commit d1c9133d65fce684a1835070142f5ed957328e5d
+Author: itzelcasillas <1tz3lcg@gmail.com>
+Date:   Tue Jul 4 15:51:14 2017 -0600
+
+    Se agrego el titulo a la pagina
+
+commit f7822c5fce1b5f90f8d8cc266cb5615fd3c8593e
+Author: itzelcasillas <1tz3lcg@gmail.com>
+Date:   Tue Jul 4 15:47:43 2017 -0600
+
+    Estructura inicial del proyecto
